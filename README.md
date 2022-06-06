@@ -1,2 +1,2 @@
-# Jo_Snake-Game-py
-## Python & Pygame
+## Jo_Snake-Game-py
+### Python & Pygame
